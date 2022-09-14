@@ -2,6 +2,12 @@
 
 one:
   title: MyString
+  author: MyString
+  price: 
+  published_date: MyString
 
 two:
   title: MyString
+  author: MyString
+  price: 
+  published_date: MyString
